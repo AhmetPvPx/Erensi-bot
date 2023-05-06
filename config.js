@@ -1,12 +1,11 @@
 module.exports = {
-    token: "tokeni girin (zorunlu)", 
+    token: "MTEwNDQ0NjY5MTUzMDI2NDY5Nw.GPYbmw.GfBOAiXqldLO8Kql7KRByQS43J1m2c_WJqeuo", 
     prefix: "e!",
     botdavet: "(zorunlu)",
     desteksunucusu: "(zorunlu)",
-    website: "(zorunlu)",
+    website: "31cekenpenguen.com",
     topgg: "(zorunlu)",
     politika: "(zorunlu)",
-    sunucuid: "(zorunlu)",
-    destekçi: "(zorunlu)"
+    sunucuid: "1096300801447690321",
+    destekçi: "⍱ iValeria#1337"
 }
-
